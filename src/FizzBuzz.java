@@ -9,7 +9,6 @@ class FizzBuzz {
         while (i <= 100) {
 
             i = doFizzBuzz(i);
-
         }
     }
 
@@ -40,6 +39,4 @@ class FizzBuzz {
         return i;
     }
 
-    public static void main() {
-    }
 }
